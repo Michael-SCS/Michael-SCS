@@ -34,7 +34,7 @@ Bienvenido a mi espacio en GitHub, donde combino curiosidad, práctica constante
 ### 💼 Proyectos destacados
 
 - 🛍️ **Sistema para Minimercado** con Promesas en JS — parte del semillero QA **T-Evolvers**
-- 📈 **Análisis de Datos** con Python — gracias al programa **AvanzaTech del Ministerio TIC**
+- 📈 **Análisis de Datos** con Python — gracias al programa **Talento-Tech del Ministerio TIC**
 - 🧪 **Pruebas automatizadas** — Playwright + SauceDemo
 
 ---
