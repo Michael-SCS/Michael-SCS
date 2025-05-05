@@ -47,12 +47,13 @@ Creo en el poder del código como herramienta para cambiar realidades. Siempre b
 
 ---
 
-### 📫 ¿Hablamos?
+### 📫 Contáctame
 
 Si tienes una idea para colaborar, un feedback brutal o simplemente quieres saludar:
 
-- ✉️ **Correo:** [michaelsteven3211@gmail.com]
-- 💼 **LinkedIn:** [linkedin.com/in/mscastillosaldarriaga]
+- ✉️ **Correo:** [michaelsteven3211@gmail.com](mailto:michaelsteven3211@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/mscastillosaldarriaga](https://www.linkedin.com/in/mscastillosaldarriaga)
+
 
 ---
 
